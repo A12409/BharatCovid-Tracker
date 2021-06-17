@@ -1,1 +1,1 @@
-# bharatcovidtracker
+# BharatCovid-Tracker
