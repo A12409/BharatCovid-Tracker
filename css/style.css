@@ -218,42 +218,42 @@ header .navbar ul li a:hover {
     transform: translateY(-1rem);
 }
 
-.symptoms {
+.symtoms {
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
 }
 
-.symptoms .content {
+.symtoms .content {
     flex: 1 1 40rem;
 }
 
-.symptoms .image {
+.symtoms .image {
     flex: 1 1 40rem;
 }
 
-.symptoms .image img {
+.symtoms .image img {
     width: 100%;
 }
 
-.symptoms .content p {
+.symtoms .content p {
     font-size: 1.5rem;
     color: #999;
     padding: 1rem 0;
 }
 
-.symptoms .content ul {
+.symtoms .content ul {
     display: flex;
     flex-wrap: wrap;
     padding: 1rem 0;
 }
 
-.symptoms .content ul .two {
+.symtoms .content ul .two {
     padding-left: 4.5rem;
 }
 
-.symptoms .content ul li {
+.symtoms .content ul li {
     margin-left: 2rem;
     font-size: 1.5rem;
     color: #666;
