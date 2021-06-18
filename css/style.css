@@ -353,20 +353,19 @@ header .navbar ul li a:hover {
     border-radius: 5rem;
 }
 
-
-.heading {
+.racebar .heading {
     text-align: center;
     padding: 2rem;
 }
 
-.iframe-container {
+.racebar .iframe-container {
     position: relative;
     width: 1200;
     padding-bottom: 56.25%;
     height: 500;
 }
 
-.iframe-container iframe {
+.racebar .iframe-container iframe {
     position: absolute;
     top: 0;
     left: 0;
