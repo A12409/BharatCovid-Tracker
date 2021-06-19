@@ -353,6 +353,44 @@ header .navbar ul li a:hover {
     border-radius: 5rem;
 }
 
+
+.vaccination {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.vaccination .content {
+    flex: 1 1 40rem;
+}
+
+.vaccination .image {
+    flex: 1 1 40rem;
+}
+
+.vaccination .image img {
+    width: 100%;
+}
+
+.vaccination .content p {
+    font-size: 1.5rem;
+    color: #999;
+    padding: 1rem 0;
+}
+
+.vaccination .content ul {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1rem 0;
+}
+
+.vaccination .content ul li {
+    margin-left: 2rem;
+    font-size: 1.5rem;
+    color: #666;
+    padding: .5rem 0;
+}
 .racebar .heading {
     text-align: center;
     padding: 2rem;
